@@ -1,5 +1,4 @@
-# CMU Advanced NLP Assignment 2: End-to-end NLP System Building
-
+All About Pittburgh - End to End RAG based and fine-tuned Question Answering LLM
 
 ## Steps
 1. Run the data scraping using the following command:
